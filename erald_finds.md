@@ -44,3 +44,16 @@ Result: > "We saw a very small change in retention. That was the surprise. And s
 Note: Disproven hypothesis — the result is nearly nothing. Valuable because it shows that what customers demand in surveys doesn't reliably drive retention. Only an A/B test tells you.
 
 ---
+
+**Albert Cheng (Chess.com) — Flipping post-loss game review from negative to positive framing**
+https://www.youtube.com/watch?v=2BKmNmnEj9w
+
+Setup: > "80% of people that review their games actually do so after a win. And that's really counterintuitive to when we initially built the feature. We thought that people would want to use it after losses or to see their mistakes such they could work on their mistakes. That turned out not to be the truth when it came to the human psychology and the actual data of it."
+
+Action: > "When you lose a game now as opposed to surfacing your blunders and your horrible stuff that you did, we flip it on its head and so we show you your brilliant moves, your best moves, and we have coach say something encouraging, 'Losing, just part of learning, keep it up.'"
+
+Result: > "It grew game reviews by 25%, subscriptions by 20%, user retention by a lot as well."
+
+Note: Retention result is unquantified ("a lot"), but the insight is powerful — users want positive reinforcement, not punishment. Category: improving products by understanding that users want a good feeling.
+
+---
