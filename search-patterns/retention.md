@@ -126,3 +126,35 @@ Read file_path="episodes/{guest}/transcript.md" offset=X limit=100
 ```
 
 **Add new patterns here when you find a phrase in a real transcript that surfaced a good story.**
+
+---
+
+## Checked episodes
+
+*Episodes manually reviewed for retention/churn case studies (Setup + Action + Result). Checked sequentially from the episodes/ folder.*
+
+| Folder | Guest | Result |
+|---|---|---|
+| ada-chen-rekhi | Ada Chen Rekhi | ❌ No retention content (career advice clip, 3:50 duration) |
+| adam-fishman | Adam Fishman (Patreon, Lyft) | ⚠️ Partial — Patreon onboarding: 25% creator LTV lift from human-touch onboarding → productized as "opinionated defaults". Strong Action + Result, weak Setup (no specific bad number). |
+| adam-grenier | Adam Grenier (Uber, MasterClass) | ❌ No retention story (episode about acquisition channels & Growth CMO role) |
+| adriel-frederick | Adriel Frederick (Reddit, Lyft, Facebook) | ❌ No retention story (diversity, Lyft pricing, Facebook marginal user framework — all acquisition/conversion, not retention) |
+| aishwarya-naresh-reganti-kiriti-badam | Aishwarya Naresh Reganti + Kiriti Badam | ❌ No retention content (AI product development episode) |
+| albert-cheng | Albert Cheng (Duolingo, Grammarly, Chess.com) | ⚠️ Partial — Chess.com game review: flipped post-loss framing from blunders→brilliant moves. 25% more game reviews, 20% more subs, retention up "a lot" (unquantified). Also: losing first game = 10% worse retention (no fix described). |
+| alex-hardimen | Alex Hardiman (NYT CPO) | ❌ No retention story (NYT product org, COVID response, Wordle acquisition) |
+| alex-komoroske | Alex Komoroske (Google, Stripe) | ❌ No retention content (strategy/philosophy episode) |
+| alexander-embiricos | Alexander Embiricos (OpenAI Codex) | ❌ No retention content (AI coding agent episode) |
+| alisa-cohn | Alisa Cohn (executive coach) | ❌ No retention content (difficult conversations / leadership) |
+| ami-vora | Ami Vora (Faire, ex-WhatsApp/FB/IG) | ❌ No retention content (leadership/authenticity episode) |
+| amjad-masad | Amjad Masad (Replit CEO) | ❌ No retention content (Replit product/AI coding) |
+| andrew-wilkinson | Andrew Wilkinson (Tiny) | ❌ No retention story (holding company philosophy, network effects — retention/churn keywords from ad reads only) |
+| andy-johns | Andy Johns (ex-FB, Twitter, Quora) | ❌ No retention content (personal journey/burnout episode) |
+| andy-raskin (+ andy-raskin_) | Andy Raskin | ❌ No retention content (strategic narrative/pitching; andy-raskin_ is duplicate) |
+| anneka-gupta | Anneka Gupta (Rubrik CPO) | ❌ No retention content (strategy/leadership episode) |
+| annie-duke | Annie Duke (poker/decision-making) | ❌ No retention content (decision frameworks; "churn" is passing VC signal mention) |
+| annie-pearl | Annie Pearl (Calendly CPO) | ❌ No retention story (team structure/PLG; retention mentioned only as funnel stage label) |
+| anton-osika | Anton Osika (Lovable CEO) | ❌ No retention content (AI startup growth story) |
+| anuj-rathi | Anuj Rathi (Swiggy, Jupiter Money, Flipkart) | ❌ No retention content (full-stack PM / growth episode) |
+| aparna-chennapragada | Aparna Chennapragada (Microsoft CPO) | ❌ No retention content (AI product strategy) |
+| april-dunford | April Dunford (Sales Pitch) | ❌ No retention content (sales pitch/positioning; keyword tag only) |
+| april-dunford-20 | April Dunford 2.0 (Obviously Awesome) | ❌ No retention content (product positioning; keyword tag only) |
